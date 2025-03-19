@@ -1,0 +1,20 @@
+In this lab, you'll be implementing Apriori and PCY Algorithm on the following two datasets. 
+
+The Apriori algorithm implementation are given on the following Links and datsets:
+
+https://www.geeksforgeeks.org/apriori-algorithm/
+(for understanding the algorithm)
+https://www.geeksforgeeks.org/pcy-algorithm-in-big-data/
+(for understanding the algorithm)
+
+https://github.com/amankharwal/Website-data/blob/master/association_rule_market_basket_analysis.ipynb
+
+https://www.geeksforgeeks.org/implementing-apriori-algorithm-in-python/
+
+The 2nd dataset can be downloaded from:
+http://archive.ics.uci.edu/dataset/352/online+retail
+
+Your job as to implement it for the PCY for the same two datasets.
+
+1) data/groceries.csv
+2) data/online_retail.xlsx
