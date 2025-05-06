@@ -1,0 +1,31 @@
+Tuned Random Forest Best Parameters:
+{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+Tuned Random Forest Accuracy: 0.79375
+
+Tuned Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+        High       0.82      0.82      0.82       179
+         Low       0.77      0.77      0.77       141
+
+    accuracy                           0.79       320
+   macro avg       0.79      0.79      0.79       320
+weighted avg       0.79      0.79      0.79       320
+
+
+Tuned Random Forest Cross-Validation Scores:
+[0.6875     0.71875    0.775      0.728125   0.72727273]
+Mean CV Accuracy: 0.7273295454545454
+Standard Deviation: 0.028046780578641226
+
+Voting Classifier Accuracy: 0.803125
+
+Voting Classifier Classification Report:
+              precision    recall  f1-score   support
+
+         Low       0.78      0.77      0.78       141
+        High       0.82      0.83      0.82       179
+
+    accuracy                           0.80       320
+   macro avg       0.80      0.80      0.80       320
+weighted avg       0.80      0.80      0.80       320
